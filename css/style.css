@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+}
+
+.header {
+    width: 100%;
+   background-color: bisque;
+}
+
+.headerStyle {
+    color: rgb(102, 181, 255);
+}
+
+.datosPokemons {
+    margin-top: 140px;
+    margin-bottom: 60px;
+}
+.paginacion{
+    justify-content: center;
+  display: flex;
+}
